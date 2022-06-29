@@ -1,0 +1,15 @@
+.banner{
+    background-image: url('../img/rock.jpg');
+    background-size: cover;
+    background-position: top center;
+    padding: 5% 30% 50% 5% ;
+}
+.menu{
+    background-color: transparent;
+    transition: 1s;
+}
+.menu2{
+    background-color: black;
+    opacity: 0.9;
+    transition: 1s;
+}
